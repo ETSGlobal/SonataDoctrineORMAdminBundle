@@ -18,7 +18,7 @@
     ],
     "require": {
         "doctrine/orm": ">=2.2,<2.4",
-        "sonata-project/admin-bundle": "2.1.*@dev",
+        "sonata-project/admin-bundle": "dev-fix-nested-append-form",
         "symfony/symfony": ">=2.1,<2.3"
     },
     "autoload": {
